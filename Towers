@@ -243,6 +243,9 @@ Chainer=={
 "Limit":5,
 "1":{"Chain length":4,"Chain range":8,"Cost":2750,"AttackRate":5,"Range":40,"Damage":75},
 "2":{"Chain length":4,"Chain range":8,"Cost":1950,"AttackRate":4.5,"Range":45,"Damage":125},
+
+
+test
 "3":{"Chain length":5,"Chain range":8,"Cost":6500,"AttackRate":4,"Range":45,"Damage":225},
 "4":{"Chain length":6,"Chain range":10,"Cost":14250,"AttackRate":3.7,"Range":50,"Damage":500},
 "5":{"Chain length":7,"Chain range":12,"Cost":35000,"AttackRate":3.2,"Range":60,"Damage":975}
